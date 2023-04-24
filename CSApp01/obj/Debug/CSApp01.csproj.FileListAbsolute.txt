@@ -1,0 +1,8 @@
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\bin\Debug\CSApp01.exe.config
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\bin\Debug\CSApp01.exe
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\bin\Debug\CSApp01.pdb
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\obj\Debug\CSApp01.csproj.AssemblyReference.cache
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\obj\Debug\CSApp01.csproj.SuggestedBindingRedirects.cache
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\obj\Debug\CSApp01.csproj.CoreCompileInputs.cache
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\obj\Debug\CSApp01.exe
+D:\AI-Center\Computing\C-Tutorial\CSApp01\CSApp01\obj\Debug\CSApp01.pdb
